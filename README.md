@@ -1,5 +1,7 @@
 # Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers
 
+We plan to get the code released by the end of June 2021, right after the CVPR conference.
+
 ## Abstract
 
 We propose a novel Siamese Natural Language Tracker (SNLT), which brings the
