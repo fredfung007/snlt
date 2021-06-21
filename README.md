@@ -1,7 +1,5 @@
 # Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers
 
-We plan to get the code released by the end of June 2021, right after the CVPR conference.
-
 ## Abstract
 
 We propose a novel Siamese Natural Language Tracker (SNLT), which brings the
@@ -30,3 +28,17 @@ year={2021}
 }
 ```
 
+## Training:
+```bash
+# on main machine:
+python run_experiment.py --num_machines=$NUM_MACHINES --config_file=$CONFIG --master_ip=$HOSTNAME  --local_machine=0 --num_gpus=$NUM_GPU --master_port=$PORT
+# on worker machine:
+python run_experiment.py --num_machines=$NUM_MACHINES --config_file=$CONFIG --master_ip=$MASTER_ADDR  --local_machine=$NODE_ID --num_gpus=$NUM_GPU --master_port=$PORT
+```
+
+## Testing:
+Testing only works on 1 GPU per video, you can run multiple videos on 1 GPU or multiple GPUs.
+```bash
+# same as training.
+python run_experiment.py --num_machines=$NUM_MACHINES --config_file=$CONFIG --master_ip=$HOSTNAME  --local_machine=0 --num_gpus=$NUM_GPU --master_port=$PORT
+```
