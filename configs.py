@@ -80,6 +80,7 @@ _C.ANCHOR.TOTAL_NUM = 64
 # ------------------------------------------------------------------------ #
 _C.TRACK = CN()
 
+# https://drive.google.com/file/d/1yrGwJU8rBC-EOMgPcXZov8fOyt-78KmU/view?usp=sharing
 _C.TRACK.RESTORE_FROM = ""
 _C.TRACK.DATASET = "otb"
 _C.TRACK.USE_OPTICAL_FLOW = False
