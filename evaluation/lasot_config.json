@@ -1,0 +1,352 @@
+{
+  "airplane": {
+    "flow": true,
+    "low": 0.8,
+    "high": 0.99
+  },
+  "basketball": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "bear": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.95
+  },
+  "bicycle": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.97
+  },
+  "bird": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.95
+  },
+  "boat": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.95
+  },
+  "book": {
+    "flow": true,
+    "low": 0.7,
+    "high": 0.99
+  },
+  "bottle": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "bus": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "car": {
+    "flow": true,
+    "low": 0.8,
+    "high": 0.99
+  },
+  "cat": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "cattle": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "chameleon": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "coin": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "crab": {
+    "flow": false,
+    "low": 0.75,
+    "high": 0.97
+  },
+  "crocodile": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.95
+  },
+  "cup": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "deer": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "dog": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.95
+  },
+  "drone": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.97
+  },
+  "electricfan": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "elephant": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.95
+  },
+  "flag": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.95
+  },
+  "fox": {
+    "flow": true,
+    "low": 0.8,
+    "high": 0.99
+  },
+  "frog": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.95
+  },
+  "gametarget": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "gecko": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "giraffe": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "goldfish": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.99
+  },
+  "gorilla": {
+    "flow": true,
+    "low": 0.8,
+    "high": 0.99
+  },
+  "guitar": {
+    "flow": true,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "hand": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "hat": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "helmet": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "hippo": {
+    "flow": true,
+    "low": 0.8,
+    "high": 0.99
+  },
+  "horse": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.97
+  },
+  "kangaroo": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "kite": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "leopard": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "licenseplate": {
+    "flow": false,
+    "low": 0.75,
+    "high": 0.95
+  },
+  "lion": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "lizard": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "microphone": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "monkey": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.99
+  },
+  "motorcycle": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "mouse": {
+    "flow": false,
+    "low": 0.75,
+    "high": 0.97
+  },
+  "person": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "pig": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "pool": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.99
+  },
+  "rabbit": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "racing": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "robot": {
+    "flow": false,
+    "low": 0.75,
+    "high": 0.97
+  },
+  "rubicCube": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.95
+  },
+  "sepia": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "shark": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.95
+  },
+  "sheep": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.97
+  },
+  "skateboard": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.95
+  },
+  "spider": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "squirrel": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "surfboard": {
+    "flow": true,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "swing": {
+    "flow": false,
+    "low": 0.8,
+    "high": 0.97
+  },
+  "tank": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.97
+  },
+  "tiger": {
+    "flow": true,
+    "low": 0.75,
+    "high": 0.99
+  },
+  "train": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "truck": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "turtle": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.95
+  },
+  "umbrella": {
+    "flow": false,
+    "low": 0.7,
+    "high": 0.95
+  },
+  "volleyball": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.97
+  },
+  "yoyo": {
+    "flow": false,
+    "low": 0.85,
+    "high": 0.99
+  },
+  "zebra": {
+    "flow": true,
+    "low": 0.85,
+    "high": 0.97
+  }
+}
